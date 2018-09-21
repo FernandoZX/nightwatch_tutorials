@@ -5,9 +5,9 @@
 
   <testsuite name="example_test_youtube"
     errors="0" failures="0" hostname="" id="" package="example_test_youtube" skipped="0"
-    tests="1" time="8.233" timestamp="Thu, 20 Sep 2018 22:31:14 GMT">
+    tests="1" time="7.907" timestamp="Fri, 21 Sep 2018 20:07:34 GMT">
   
-    <testcase name="Demo test Youtube" classname="example_test_youtube" time="8.233" assertions="3">
+    <testcase name="Demo test Youtube" classname="example_test_youtube" time="7.907" assertions="3">
 
     
 
@@ -17,20 +17,6 @@
     </testcase>
   
 
-  
-    <system-err>
-      ERROR: Unable to locate element: &#34;///div[class=main-banner]&#34; using: xpath
-    at Object.demoTestGoogleXpath (/Users/fernandocabrera/nightwatch_tutorial/tests/example_test_google_xpath.js:6:6)
-    at Module.call (/Users/fernandocabrera/nightwatch_tutorial/node_modules/nightwatch/lib/runner/module.js:62:34)
-    at /Users/fernandocabrera/nightwatch_tutorial/node_modules/nightwatch/lib/runner/testcase.js:70:29
-    at _fulfilled (/Users/fernandocabrera/nightwatch_tutorial/node_modules/q/q.js:834:54)
-    at self.promiseDispatch.done (/Users/fernandocabrera/nightwatch_tutorial/node_modules/q/q.js:863:30)
-    at Promise.promise.promiseDispatch (/Users/fernandocabrera/nightwatch_tutorial/node_modules/q/q.js:796:13)
-    at /Users/fernandocabrera/nightwatch_tutorial/node_modules/q/q.js:556:49
-    at runSingle (/Users/fernandocabrera/nightwatch_tutorial/node_modules/q/q.js:137:13)
-    at flush (/Users/fernandocabrera/nightwatch_tutorial/node_modules/q/q.js:125:13)
-    at _combinedTickCallback (internal/process/next_tick.js:131:7)
-    </system-err>
   
 
   

@@ -27,3 +27,6 @@ backup*.dump
 # node
 
 node_modules/
+
+# app reports
+reports/
