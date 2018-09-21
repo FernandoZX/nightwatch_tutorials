@@ -1,0 +1,14 @@
+{
+  "name": "nightwatch_tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "nightwatch"
+  },
+  "author": "FernandoZX",
+  "license": "ISC",
+  "dependencies": {
+    "nightwatch": "^0.9.21"
+  }
+}
